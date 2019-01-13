@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo 0
 mount /dev/sdb2 /mnt
 echo 1
